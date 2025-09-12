@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao meu perfil 😁
 
 - 🎲 Hoje trabalho com Analise de Dados
-- 👨‍🎓 Estudando Python, SQL, PowerBI, Excel
+- 👨‍🎓 Estudando Python, SQL, PowerBI, Excel, Qlick Sense, AWS
   
  <div>
    <a href="https://github.com/Antonio-Inacio">
