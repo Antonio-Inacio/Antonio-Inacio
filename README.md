@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao meu perfil 😁
 
-- 🎲 Hoje trabalho com Analise de Dados
-- 👨‍🎓 Estudando Python, SQL, PowerBI, Excel, AWS
+- 🎲 Sigo minha carreira na interseção entre Dados e Inteligência Artificial.
+- 👨‍🎓 Imerso em conteúdos da área e estudo diariamente fundamentos essenciais de engenharia de dados, análise exploratória, modelagem, workflows de Machine Learning e bibliotecas Python usadas no dia a dia (pandas, numpy, scikit-learn, entre outras).
   
  <div>
    <a href="https://github.com/Antonio-Inacio">
